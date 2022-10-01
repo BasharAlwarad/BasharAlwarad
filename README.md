@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Bashar Alwarad
-### You can reach me under my website at: https://basharalwarad.netlify.app/
+### You can reach me under my website at: https://bashar-alwarad.netlify.app/
 
 ### Location Hannover/Germany
 <dl>
